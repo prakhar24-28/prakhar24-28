@@ -113,15 +113,28 @@ A semantic analysis system designed to validate and compare **15,000+ newspaper 
 </p>
 
 ---
-
-## 📈 Activity
+## 📈 My GitHub Journey
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakhar24-28&theme=tokyo-night&hide_border=true&area=true"/>
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=prakhar24-28&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+  />
 </p>
 
----
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=prakhar24-28&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/prakhar24-28/prakhar24-28/output/github-contribution-grid-snake-dark.svg"
+    alt="Contribution Snake"
+  />
+</p>
 ## 🤝 Let's Connect
 
 <p align="center">
